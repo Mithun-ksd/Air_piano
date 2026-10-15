@@ -98,7 +98,3 @@ python "air_piano(2).py"
 - Sounds are simple synthesized sine waves, not realistic piano samples.
 - Performance depends on lighting, webcam quality, and hand visibility.
 - The interface maps fingertip position to keys; it does not detect physical contact.
-
-## License
-
-No license is specified in the supplied source code. Add a license only if you intend to define reuse permissions.
