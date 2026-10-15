@@ -68,11 +68,6 @@ If the script is named `air_piano.py`:
 python air_piano.py
 ```
 
-If you keep the uploaded filename:
-
-```bash
-python "air_piano(2).py"
-```
 
 ## Controls
 
